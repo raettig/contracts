@@ -93,11 +93,11 @@ Signed by the parties’ authorised representatives as follows:
 
 On behalf of the Consultancy by *[ ]*
 
-/(Authorised Signature)/
+*(Authorised Signature)*
 
 On behalf of the Client by *[ ]*
 
-/(Authorised Signature)/
+*(Authorised Signature)*
 
-/Title: Date:/
+*Title: Date:*
 
