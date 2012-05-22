@@ -1,5 +1,5 @@
-Master Consultancy Services Agreement (September 2011 revision)
-===============================================================
+Master Consultancy Services Agreement
+=====================================
 
 * This Master Consultancy Services Agreement is made between:
 	* *[Your company name]* a *[company|limited liability partnership]* incorporated in England & Wales *[registration no]* whose registered office and trading address is at *[address]* ('the Consultancy'),
